@@ -1,5 +1,11 @@
 {
     "name": "amadeann/jigsaw-starter-template",
+    "authors": [
+        {
+            "name": "Amadeusz Annissimo",
+            "email": "aa@ak-ventures.eu"
+        }
+    ],
     "require": {
         "tightenco/jigsaw": "^1.3"
     }
